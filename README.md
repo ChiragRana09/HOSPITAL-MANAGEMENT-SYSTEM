@@ -28,7 +28,7 @@ The structure of our database (in the form of an entity - relationship model) co
 * **10** entities 
 * **8** relationships.
 
-**The entities (11):**
+**The entities (10):**
 
 
 
